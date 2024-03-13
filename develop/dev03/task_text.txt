@@ -1,0 +1,4 @@
+1 gun automat poplarM
+2 car plane ship
+3 dog cat duck
+4 corn wheat grape
